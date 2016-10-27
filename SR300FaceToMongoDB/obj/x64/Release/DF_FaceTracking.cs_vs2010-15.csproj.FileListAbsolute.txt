@@ -1,0 +1,15 @@
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\DF_FaceTracking.cs.exe.config
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\DF_FaceTracking.cs.exe
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\DF_FaceTracking.cs.pdb
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\libpxcclr.cs.dll
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\MongoDB.Bson.dll
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\MongoDB.Driver.Core.dll
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\bin\x64\Release\MongoDB.Driver.dll
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-15.csprojResolveAssemblyReference.cache
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.KidInfo.resources
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MainForm.resources
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.MongoInfo.resources
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.Properties.Resources.resources
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs_vs2010-15.csproj.GenerateResource.Cache
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.exe
+C:\Users\bruce\Documents\RSSDK\Samples\DF_FaceTracking.cs\obj\x64\Release\DF_FaceTracking.cs.pdb
